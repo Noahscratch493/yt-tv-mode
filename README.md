@@ -21,9 +21,7 @@ This project allows you to use **YouTube TV Mode** on your **desktop or laptop c
     pip install PyQt5
     ```
 
-3. Download the YouTube favicon from [YouTube favicon](https://www.youtube.com/favicon.ico) and save it as `youtube.ico` in the project folder.
-
-4. Run the Python script:
+3. Run the Python script:
 
     ```bash
     python yt-tv.py
