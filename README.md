@@ -14,18 +14,14 @@ This project allows you to use **YouTube TV Mode** on your **desktop or laptop c
 
 ## Installation:
 
-1. Clone this repository or download the project files.
+1. download the project files from releases
 2. Install the necessary Python dependencies:
 
     ```bash
     pip install PyQt5
     ```
 
-3. Run the Python script:
-
-    ```bash
-    python yt-tv.py
-    ```
+3. Run the Python script by double clicking on the PY file.
 
 ## How It Works:
 The application opens a PyQt5-based window, which emulates the **Wii U's browser** user-agent, prompting YouTube to display the **TV mode interface** (youtube.com/tv). This gives users a simplified YouTube layout suitable for TV screens. 
