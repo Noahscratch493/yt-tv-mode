@@ -14,7 +14,7 @@ This project allows you to use **YouTube TV Mode** on your **desktop or laptop c
 
 ## Installation:
 
-1. download the project files from releases
+1. Download the project files from releases
 2. Install the necessary Python dependencies:
 
     ```bash
