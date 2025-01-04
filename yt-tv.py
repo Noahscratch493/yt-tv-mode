@@ -9,8 +9,6 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     web = QWebEngineView()
 
-    print(web.page().profile().httpUserAgent())
-
     # Set the user agent to the Wii U one to display YouTube's TV Mode
     web.page().profile().setHttpUserAgent(
         "Mozilla/5.0 (Nintendo WiiU) AppleWebKit/536.28 (KHTML, like Gecko) NX/3.0.3.12.15 NintendoBrowser/4.1.1.9601.EU"
