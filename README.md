@@ -34,8 +34,8 @@ This project does not hack or steal your Google account information. The login p
 
 **If you are concerned about security**, feel free to check the code yourself. It does **not** store or process your Google credentials in any way. The login process is fully handled by YouTube itself.
 
-## Contributions:
-Feel free to fork this project, submit issues, and propose improvements. All contributions are welcome!
+## Casting to Device
+When casting from a device, it will appear as "Wii U" in the device selection menu. Make sure to select this option when connecting to cast from your device.
 
 ## License:
 This project is open source and available under the MIT License.
