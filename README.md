@@ -34,10 +34,6 @@ This project does not hack or steal your Google account information. The login p
 
 **If you are concerned about security**, feel free to check the code yourself. It does **not** store or process your Google credentials in any way. The login process is fully handled by YouTube itself.
 
-## How to Set the Icon:
-- The application window icon is set to the YouTube favicon. Download the [favicon](https://www.youtube.com/favicon.ico) and save it as `youtube.ico` in the project directory.
-- The icon can be customized by replacing the `youtube.ico` file with any other valid `.ico` file.
-
 ## Contributions:
 Feel free to fork this project, submit issues, and propose improvements. All contributions are welcome!
 
